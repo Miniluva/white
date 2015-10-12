@@ -40,6 +40,9 @@ a:visited {
 	background-color: #F5F5F5;
 
 }
+#header-global h1 {
+	background: #F5F5F5;
+}
 #main-menu-left a.close-menu{
 	background:#F5F5F5;
 }
